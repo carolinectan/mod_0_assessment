@@ -5,7 +5,7 @@ dinosaur = {
   "weight_in_lbs" => 6800,
   "is_carnivore" => false,
   "is_herbivore" => true,
-  "location" => ["Colorado", "Montana", "Utah"],
-  "physical_characteristic" => ["4 legs", "bony plates on back", "spiked tail"]
+  "locations" => ["Colorado", "Montana", "Utah"],
+  "physical_characteristics" => ["4 legs", "bony plates on back", "spiked tail"]
 
 }
