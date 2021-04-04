@@ -17,6 +17,8 @@ favorite_foods.shift
 
 puts array
 
+puts movie.length
+
 count = 0
 for i in 1..movie.length
     if (movie[i] != "")
